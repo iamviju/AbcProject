@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+body{
+	background-color: skyblue;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+
+.lak ul li{
+	float: right;
+	padding: 1px;
+	margin-right:  50px;
+	margin-top:  25px;
+	
+}
+
+/*a{
+	text-decoration: none;
+
+}
+
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+*/
+.xyz{
+	text-align: CENTER;
+	margin-top:  10px;
+	color: #000000;
+	
+}
+
+	
+}
+	
+	
